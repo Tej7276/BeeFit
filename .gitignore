@@ -1,0 +1,42 @@
+# Java / Maven
+**/target/
+**/build/
+*.class
+
+# Maven wrapper generated files
+.mvn/timing.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# Android
+**/.gradle/
+**/local.properties
+**/captures/
+**/.externalNativeBuild/
+**/.cxx/
+
+# Generated Android build files
+**/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archives
+*.zip
